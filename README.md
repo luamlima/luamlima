@@ -1,7 +1,5 @@
 # 👋 Bem-vindo!!
 
-## Sobre Mim
-
  Olá! Sou um Analista de Sistemas com mais de 12 anos de experiência na área de infraestrutura, especializado em garantir a estabilidade e eficiência dos sistemas.
  Com um sólido histórico em gerenciamento de servidores e redes. 
  
