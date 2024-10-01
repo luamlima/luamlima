@@ -8,26 +8,23 @@ Ao longo da minha carreira, desenvolvi experiência sólida em administração d
 
 ### Minhas principais competências incluem:
 
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) **Desenvolvimento Backend** com Java e o framework Spring, criando APIs e sistemas integrados.
-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) **Frontend** utilizando Angular e React para criar interfaces dinâmicas e modernas.
-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) **Desenvolvimento Web** com HTML, CSS e JavaScript.
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) **Administração de Bancos de Dados**, otimizando consultas e garantindo integridade.
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) **Administração de Servidores Linux** e ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) para garantir escalabilidade de aplicações web.
-- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) **Automação e Integração Contínua** com Jenkins.
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) **Controle de Versão**, assegurando o gerenciamento eficiente e seguro de projetos.
+- **Desenvolvimento Web**: Java com o framework Spring, Angular, React, HTML, CSS e JavaScript.
+- **Banco de Dados**: PostgreSQL, MySQL e SQL Server, com otimização de consultas e manutenção da integridade dos dados.
+- **Administração de Infraestrutura**: Servidores Linux, Nginx, e automação de deploy utilizando Jenkins, garantindo escalabilidade e fluxos de entrega contínua.
+- **Controle de Versão**: Git, para o gerenciamento eficiente e seguro de código em projetos colaborativos.
 
 ## 💻 Tecnologias e Ferramentas
 
-- **Backend**: ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white), ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-- **Frontend**: ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white), ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black), ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- **Banco de Dados**: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white), ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white), ![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-- **Controle de Versão**: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- **Automação**: ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-- **Servidores**: ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black), ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+- **Backend**: Java, Spring (Core, Boot, Data, Security)
+- **Frontend**: Angular, React, HTML5, CSS3, JavaScript (ES6+)
+- **Bancos de Dados**: PostgreSQL, MySQL, SQL Server
+- **Controle de Versão**: Git
+- **Automação**: Jenkins
+- **Servidores**: Linux, Nginx
 
 ## 🌱 O que estou aprendendo atualmente?
 
-Estou constantemente me aprimorando como desenvolvedor full stack, aprofundando meus conhecimentos em frameworks e ferramentas do ecossistema Spring, além de estudar boas práticas para desenvolvimento de sistemas escaláveis e de alta performance.
+Estou constantemente me aprimorando como desenvolvedor full stack, aprofundando meus conhecimentos em frameworks e ferramentas do ecossistema Spring e estudando boas práticas para desenvolvimento de sistemas escaláveis e de alta performance.
 
 ## 🛠️ Projetos Recentes
 
@@ -37,5 +34,5 @@ Estou constantemente me aprimorando como desenvolvedor full stack, aprofundando 
 
 ## 📫 Como me encontrar?
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin)
-- [GitHub](https://github.com/seu-perfil-github)
+- [LinkedIn](https://www.linkedin.com/in/luam-lima/)
+- [GitHub](https://github.com/luamlima)
