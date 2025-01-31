@@ -11,6 +11,7 @@ Ao longo da minha carreira, desenvolvi uma experiência sólida em administraç�
 - **Controle de Versão**: Git, para o gerenciamento eficiente e seguro de código em projetos colaborativos.
 
 💻 **Tecnologias e Ferramentas**
+
 - **Backend**: Java, Spring (Core, Boot, Data, Security)
 - **Frontend**: Angular, React, HTML5, CSS3, JavaScript (ES6+)
 - **Bancos de Dados**: PostgreSQL, MySQL, SQL Server
@@ -19,9 +20,11 @@ Ao longo da minha carreira, desenvolvi uma experiência sólida em administraç�
 - **Servidores**: Linux, Nginx
 
 🌱 **O que estou aprendendo atualmente?**  
-Estou constantemente me aprimorando como desenvolvedor full stack, aprofundando meus conhecimentos em frameworks e ferramentas do ecossistema Spring e estudando boas práticas para desenvolvimento de sistemas escaláveis e de alta performance.
+
+  Estou constantemente me aprimorando como desenvolvedor full stack, aprofundando meus conhecimentos em frameworks e ferramentas do ecossistema Spring e estudando boas práticas para desenvolvimento de sistemas escaláveis e de alta performance.
 
 🛠️ **Projetos Recentes**
+
 - **Sistema de Integração com ERP TOTVS**: Desenvolvimento de um sistema integrado ao ERP TOTVS RM utilizando Java e Spring para automação de processos administrativos e educacionais.
 - **Landing Pages Dinâmicas**: Criação de landing pages responsivas e otimizadas com WordPress e React, garantindo uma experiência de usuário de alta qualidade e tempos de carregamento reduzidos.
 - **Automação de Deploy**: Implementação de pipelines CI/CD com Jenkins, otimizando fluxos de desenvolvimento e entrega contínua de software.
