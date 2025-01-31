@@ -7,32 +7,57 @@ Ao longo da minha carreira, desenvolvi uma experiência sólida em administraç�
 ### Minhas principais competências incluem:
 
 #### Desenvolvimento Front-End
-- **Tecnologias**: HTML, CSS, JavaScript (ES6+), React
+- **Tecnologias**: 
+  - HTML ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+  - CSS ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+  - JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+  - React ![React](https://img.icons8.com/color/48/000000/react-native.png)
 - **Descrição**: Criação de interfaces de usuário responsivas e interativas, garantindo uma experiência de usuário de alta qualidade.
 
 #### Desenvolvimento Back-End
-- **Tecnologias**: Java com o framework Spring
+- **Tecnologias**: 
+  - Java ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+  - Spring ![Spring](https://img.icons8.com/color/48/000000/spring-logo.png)
 - **Descrição**: Desenvolvimento de APIs e lógica de negócios, focando em soluções robustas e escaláveis.
 
 ### Banco de Dados
-- **Tecnologias**: PostgreSQL, MySQL e SQL Server
+- **Tecnologias**: 
+  - PostgreSQL ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
+  - MySQL ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+  - SQL Server ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)
 - **Descrição**: Otimização de consultas e manutenção da integridade dos dados.
 
 ### Administração de Infraestrutura
-- **Tecnologias**: Servidores Linux, Nginx
+- **Tecnologias**: 
+  - Linux ![Linux](https://img.icons8.com/color/48/000000/linux.png)
+  - Nginx ![Nginx](https://img.icons8.com/color/48/000000/nginx.png)
 - **Descrição**: Automação de deploy utilizando Jenkins, garantindo escalabilidade e fluxos de entrega contínua.
 
 ### Controle de Versão
-- **Tecnologia**: Git
+- **Tecnologia**: 
+  - Git ![Git](https://img.icons8.com/color/48/000000/git.png)
 - **Descrição**: Gerenciamento eficiente e seguro de código em projetos colaborativos.
 
 💻 **Tecnologias e Ferramentas**
-- **Backend**: Java, Spring (Core, Boot, Data, Security)
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+), React
-- **Bancos de Dados**: PostgreSQL, MySQL, SQL Server
-- **Controle de Versão**: Git
-- **Automação**: Jenkins
-- **Servidores**: Linux, Nginx
+- **Backend**: 
+  - Java ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+  - Spring ![Spring](https://img.icons8.com/color/48/000000/spring-logo.png)
+- **Frontend**: 
+  - HTML5 ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+  - CSS3 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+  - JavaScript (ES6+) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+  - React ![React](https://img.icons8.com/color/48/000000/react-native.png)
+- **Bancos de Dados**: 
+  - PostgreSQL ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
+  - MySQL ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+  - SQL Server ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)
+- **Controle de Versão**: 
+  - Git ![Git](https://img.icons8.com/color/48/000000/git.png)
+- **Automação**: 
+  - Jenkins ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png)
+- **Servidores**: 
+  - Linux ![Linux](https://img.icons8.com/color/48/000000/linux.png)
+  - Nginx ![
 
 🌱 **O que estou aprendendo atualmente?**  
 Estou constantemente me aprimorando como desenvolvedor full stack, aprofundando meus conhecimentos em frameworks e ferramentas do ecossistema Spring e estudando boas práticas para desenvolvimento de sistemas escaláveis e de alta performance.
